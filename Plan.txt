@@ -1,0 +1,17 @@
+Stuff that it needs with detail about it
+
+		======Team maker======
+#this class?? will be used to make each players team
+
+-will need a name
+-following player with postions
+	-1 Qb, 2 RBs, 2, WR, 1 TE, 1 DEF, 1 Flex, and a kicker
+-a method to get the score for the player
+	-this may change when I get the API
+-total fantasy points
+
+		======Leader Board======
+#this will display all teams in the league with fantasy score and who is in the league
+
+-will need to fetch the total score of each team
+-will need to get the name
