@@ -1,11 +1,12 @@
-class team:
+class Team:
     def __init__(self, name):
         self.name = name
+        teamlineup = TeamLineUp()
 
-
-class getPlayerInfo:
+class GetPlayerInfo:
     pass 
 
-class teamLineUp:
+class TeamLineUp:
     def __init__(self):
-        lineup = [{QB : ""}]
+        lineup = [{"QB" : ""}]
+
