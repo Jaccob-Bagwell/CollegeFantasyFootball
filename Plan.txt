@@ -15,3 +15,15 @@ Stuff that it needs with detail about it
 
 -will need to fetch the total score of each team
 -will need to get the name
+
+
+		=====Team lineup=======
+- will set the line up with 1 QB, 2 RBs, 2 WRs, 1 Flex, 1 DEF, and 1 kicker
+- will assign the player requested to the line up of the team
+	-will check to see if player plays that postions
+	-will check to see if player is available
+- will add a bench in the future
+
+		======Get player info======
+- this is the method that will be used for the API
+- will store this in a list of players that are taken
