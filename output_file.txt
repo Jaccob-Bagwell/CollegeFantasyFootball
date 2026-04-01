@@ -1,0 +1,47 @@
+[
+    {
+        "id": 401405100,
+        "season": 2022,
+        "week": 5,
+        "seasonType": "regular",
+        "startDate": "2022-10-01 16:00:00+00:00",
+        "startTimeTBD": false,
+        "completed": true,
+        "neutralSite": false,
+        "conferenceGame": true,
+        "attendance": 69250,
+        "venueId": 3793,
+        "venue": "Kinnick Stadium",
+        "homeId": 2294,
+        "homeTeam": "Iowa",
+        "homeConference": "Big Ten",
+        "homeClassification": "fbs",
+        "homePoints": 14,
+        "homeLineScores": [
+            0,
+            0,
+            0,
+            14
+        ],
+        "homePostgameWinProbability": 0.0493201809853721,
+        "homePregameElo": 1702,
+        "homePostgameElo": 1701,
+        "awayId": 130,
+        "awayTeam": "Michigan",
+        "awayConference": "Big Ten",
+        "awayClassification": "fbs",
+        "awayPoints": 27,
+        "awayLineScores": [
+            7,
+            6,
+            7,
+            7
+        ],
+        "awayPostgameWinProbability": 0.950679819014628,
+        "awayPregameElo": 2012,
+        "awayPostgameElo": 2013,
+        "excitementIndex": 2.1253100123,
+        "highlights": "",
+        "notes": null
+    }
+]
