@@ -27,3 +27,12 @@ Stuff that it needs with detail about it
 		======Get player info======
 - this is the method that will be used for the API
 - will store this in a list of players that are taken
+
+		=======API===========
+- am able to use the api
+- need to make my API key not hardcoded in (make an enviromental key)
+- need a way to validate a player
+- make a list of all apis i would need
+	-no reason to get a call if they are in the transfer portal (right now) or weather
+- can give options for the use to choose from
+	- this should be just to test

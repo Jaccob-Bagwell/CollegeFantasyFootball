@@ -62,5 +62,4 @@ with cfbd.ApiClient(configuration) as api_client:
 
 
 CallsLeft()
-
-
+print(f"{api_response[0].home_points}") #this is able to print a specific part of the JSON file
