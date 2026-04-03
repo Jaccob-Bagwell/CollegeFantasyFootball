@@ -36,3 +36,6 @@ Stuff that it needs with detail about it
 	-no reason to get a call if they are in the transfer portal (right now) or weather
 - can give options for the use to choose from
 	- this should be just to test
+- WHAT ENDPOINT ON THE API TO use
+	- get/game/players
+	-

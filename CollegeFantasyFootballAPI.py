@@ -43,7 +43,7 @@ with cfbd.ApiClient(configuration) as api_client:
     # Create an instance of the API class
     api_instance = cfbd.GamesApi(api_client)
     #parameters
-    year = 2022 # int | Optional year filter (optional)
+    year = 2019 # int | Optional year filter (optional)
     team = 'michigan' # str | Optional team filter (optional)
     week = 5
     
@@ -62,4 +62,5 @@ with cfbd.ApiClient(configuration) as api_client:
 
 
 CallsLeft()
-print(f"{api_response[0].home_points}") #this is able to print a specific part of the JSON file
+
+

@@ -1,0 +1,11 @@
+
+
+To overwrite what i have with whats on github
+    - make sure im in the correct path where the project is located on the computer in the terminal
+    - git fetch origin
+    - git reset --hard origin/Michigan
+
+to commit what i have to github
+    -git add . (.gets everything)
+    -git commit -m "describe what you have changed here"
+    -git push origin main
