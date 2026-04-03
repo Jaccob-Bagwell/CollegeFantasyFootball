@@ -47,7 +47,5 @@ def callPlayerSeasonStats(year,team,start_week,end_week):
             print("Exception: %s\n" % e)
 
 
-CallsLeft()
-callPlayerSeasonStats(2020,"Ohio state",2,2)
 
 

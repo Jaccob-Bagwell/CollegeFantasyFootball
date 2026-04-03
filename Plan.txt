@@ -39,3 +39,22 @@ Stuff that it needs with detail about it
 - WHAT ENDPOINT ON THE API TO use
 	- get/game/players
 	-
+
+
+
+		=========Database========
+-will try to use SQL for this
+-for players each will have
+	- ID
+	- name
+	- postion
+	- stats
+		- rushing yards
+		- receiving yeards
+		- passing yards
+		- rush attempts
+		- pass attempts
+		- completed passes
+		- completed receptions
+		- targers
+	- maybe the fants points
